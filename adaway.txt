@@ -78,3 +78,4 @@
 0.0.0.0 www.sgp.o2o.api.xiaomi.com
 0.0.0.0 flash.sec.intl.miui.com
 0.0.0.0 www.flash.sec.intl.miui.com
+0.0.0.0 api.sec.miui.com
